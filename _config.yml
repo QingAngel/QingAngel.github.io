@@ -37,7 +37,7 @@ components:
     word_count:
         enabled: true
     # 页面右上角，以及「关于」页面的二维码
-    # 修改图片请替换 assets/images/qrcode.jpg
+    # 修改图片请替换 assets/images/abc.jpg
     qrcode:
         enabled: true
         image_alt: 闷骚的程序员
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Qing
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Qing
+location: Beijing, China
+email: 2382399899@qq.com
 
 # ---------------- #
 #    Navigation    #
